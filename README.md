@@ -1,6 +1,6 @@
 # Library Management System: Database Operations Module
 
-This module is a part of my main project, **Library Management System**, developed during the Java course instructed by Owais Raza and Jawad Rasheed. The focus of this module is to perform essential database operations efficiently and securely.
+This module is a part of my main project, **Library Management System**, developed during the Java course. The focus of this module is to perform essential database operations efficiently and securely.
 
 ## Features
 
